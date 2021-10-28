@@ -8,3 +8,5 @@ Print the value of a.b⁻¹ modulo 10⁹+123 .
 
 # Input Format
 The only line of input contains two integers n and k  separated by single space.
+
+# Add your solutions in the respective question directory 
